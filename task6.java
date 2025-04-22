@@ -9,7 +9,7 @@ public class task6{
    
     
       if (a%2==0 ){
-           System.out.println(a+"is even ");
+           System.out.println(a+"is elkjhven ");
               
     }
     else 

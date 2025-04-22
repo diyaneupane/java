@@ -9,7 +9,7 @@ public class task5 {
         System.out.print("Enter 3rd number:");
         int c=sc.nextInt();
         if(a>b && a>c){
-            System.out.println(a+ " is greatest.");
+            System.out.println(a+ " is gkjhreatest.");
         }
         else if(b>a && b>c){
             System.out.println(b+ " is greatest.");

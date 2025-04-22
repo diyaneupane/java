@@ -5,7 +5,7 @@ public class task3{
         System.out.print("Enter the number");
         int a= sc.nextInt();
         if (a>0){
-            System.out.println("positive");
+            System.out.println("posihjgvtive");
         }
     
             else if  (a==0){

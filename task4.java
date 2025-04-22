@@ -5,7 +5,7 @@ public class task4{
         System.out.println("Enter the number ");
         int a= sc.nextInt();
         if (a%5==0 && a%11==0){
-            System.out.println(a+"is  divisible");}
+            System.out.println(a+"is  divjkisible");}
         else{
             System.out.println(a+"is not");
     }
